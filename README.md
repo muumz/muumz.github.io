@@ -4,7 +4,7 @@
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Online-green)](https://muumz.github.io/)
 
 ## About
-**Muumz Website** is my personal side project, built with **Bootstrap**. It’s **fully responsive and mobile-friendly**, designed to showcase my own character in a clean, playful style.  
+This is my personal side project, built with **Bootstrap**. It’s **fully responsive and mobile-friendly**, designed to showcase my own character in a clean, playful style.  
 
 This project helped me explore **frontend development**, **responsive design**, and creating a website that’s simple, fun, and easy to use.
 
